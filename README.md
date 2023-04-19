@@ -1,1 +1,3 @@
-# practice-git
+# Object Detection
+## VGG16 classifier
+## CLASSIFICATION OF CACAO PODS RIPENESS USING CONVOLUTIONAL NEURAL NETWORK
